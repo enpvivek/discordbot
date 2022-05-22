@@ -114,5 +114,5 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 ## Demo
 
-![Test Image 4](https://github.com/enpvivek/discordbot/blob/main/Images/image.png)
+![Running Locally](https://github.com/enpvivek/discordbot/blob/main/Images/image.png)
 
